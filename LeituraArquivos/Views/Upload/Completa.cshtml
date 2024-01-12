@@ -1,0 +1,178 @@
+﻿@model LeituraArquivos.Models.ViewModels.NotaFiscalViewModels
+@{
+    ViewData["Title"] = "Consulta completa NFe";
+}
+
+<h3 class="text-white">@ViewData["Title"]</h3>
+
+<div class="formulario">
+    <h3>Cabeçalho da nota fiscal</h3>
+    <form class="row g-3">
+        <div class="col-sm-6">
+            <label asp-for="NotaFiscal.Id" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Id" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-3">
+            <label asp-for="NotaFiscal.Versao" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Versao" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-3">
+            <label asp-for="NotaFiscal.CUf" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.CUf" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-4">
+            <label asp-for="NotaFiscal.CNf" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.CNf" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-4">
+            <label asp-for="NotaFiscal.NatOp" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.NatOp" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-4">
+            <label asp-for="NotaFiscal.Mod" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Mod" class="form-control form-control-sm" disabled="disabled">
+        </div>
+    </form>
+</div>
+<div class="formulario">
+    <h3>Dados do emitente</h3>
+    <form class="row g-3">
+        <div class="col-sm-4">
+            <label asp-for="NotaFiscal.Emitentes.CNPJ" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Emitentes.CNPJ" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-4">
+            <label asp-for="NotaFiscal.Emitentes.XNome" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Emitentes.XNome" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-4">
+            <label asp-for="NotaFiscal.Emitentes.XFant" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Emitentes.XFant" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <hr>
+        <h3>Dados de endereço</h3>
+        <div class="col-sm-4">
+            <label asp-for="NotaFiscal.Emitentes.XLgr" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Emitentes.XLgr" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-4">
+            <label asp-for="NotaFiscal.Emitentes.Nro" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Emitentes.Nro" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-4">
+            <label asp-for="NotaFiscal.Emitentes.CEP" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Emitentes.CEP" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-5">
+            <label asp-for="NotaFiscal.Emitentes.XBairro" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Emitentes.XBairro" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-3">
+            <label asp-for="NotaFiscal.Emitentes.XMun" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Emitentes.XMun" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-2">
+            <label asp-for="NotaFiscal.Emitentes.UF" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Emitentes.UF" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-2">
+            <label asp-for="NotaFiscal.Emitentes.XPais" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Emitentes.XPais" class="form-control form-control-sm" disabled="disabled">
+        </div>
+    </form>
+</div>
+<div class="formulario">
+    <h3>Dados do destinatario</h3>
+    <form class="row g-3">
+        <div class="col-sm-6">
+            <label asp-for="NotaFiscal.Destinatarios.CNPJ" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Destinatarios.CNPJ" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-6">
+            <label asp-for="NotaFiscal.Destinatarios.XNome" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Destinatarios.XNome" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <hr>
+        <h3>Dados de endereço</h3>
+        <div class="col-sm-4">
+            <label asp-for="NotaFiscal.Destinatarios.XLgr" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Destinatarios.XLgr" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-4">
+            <label asp-for="NotaFiscal.Destinatarios.Nro" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Destinatarios.Nro" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-4">
+            <label asp-for="NotaFiscal.Destinatarios.CEP" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Destinatarios.CEP" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-5">
+            <label asp-for="NotaFiscal.Destinatarios.XBairro" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Destinatarios.XBairro" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-3">
+            <label asp-for="NotaFiscal.Destinatarios.XMun" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Destinatarios.XMun" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-2">
+            <label asp-for="NotaFiscal.Destinatarios.UF" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Destinatarios.UF" class="form-control form-control-sm" disabled="disabled">
+        </div>
+        <div class="col-sm-2">
+            <label asp-for="NotaFiscal.Destinatarios.XPais" class="col-form-label col-form-label-sm"></label>
+            <input asp-for="NotaFiscal.Destinatarios.XPais" class="form-control form-control-sm" disabled="disabled">
+        </div>
+    </form>
+</div>
+<div>
+    <h3 class="text-white">Produtos</h3>
+    <table class="table table-secondary table-striped">
+    <thead>
+        <tr>
+            <th>
+                Item
+            </th>
+            <th>
+                Descrição
+            </th>
+            <th>
+                Quantidade
+            </th>
+            <th>
+                Unid. Com.
+            </th>
+            <th>
+                Valor Unit.
+            </th>
+            <th>
+                Valor Prod.
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.NotaFiscal.Emitentes.ProdServs)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NItem)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.XProd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.QCom)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UCom)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.VUnCom)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.VProd)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>

@@ -1,247 +1,399 @@
 {
   "Files": [
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LeituraArquivos.bundle.scp.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LeituraArquivos.bundle.scp.css",
       "PackagePath": "staticwebassets\\LeituraArquivos.bundle.scp.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\css\\site.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\1ale.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\1ale.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_108.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_108.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_146.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_146.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_184.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_184.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_187.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_187.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_237.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_237.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_271.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_271.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_286.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_286.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_301.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_301.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_306.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_306.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_330.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_330.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_332.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_332.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_336.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_336.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_349.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_349.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_370.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_370.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_387.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_387.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_403.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_403.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_457.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_457.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_459.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_459.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_483.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_483.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_499.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_499.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_511.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_511.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_562.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_562.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_602.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_602.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_631.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_631.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_639.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_639.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_652.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_652.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_667.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_667.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_699.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_699.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_714.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_714.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_771.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_771.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_776.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_776.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_787.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_787.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_901.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_901.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_935.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_935.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_939.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_939.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_979.xml",
+      "PackagePath": "staticwebassets\\Arquivos\\Arquivos_Usuario\\Recebidos\\Usuario_arquivo_979.xml"
+    },
+    {
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\favicon.ico",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\js\\site.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\temp\\ws-VisualStudio\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\projetos\\LeituraArquivos\\LeituraArquivos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

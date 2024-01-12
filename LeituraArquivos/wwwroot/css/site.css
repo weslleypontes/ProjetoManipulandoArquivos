@@ -14,7 +14,8 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background: url('img/image.jpg');
 }
 input[type=file] {
     width: 450px;
@@ -73,3 +74,23 @@ input[type=file] {
     text-align: center;
     transition: color .2s ease-in-out;
 }
+
+.formulario {
+    padding: 20px;
+    margin: 40px 0;
+    border: 1px solid black;
+    background: #fff;
+}
+
+.f{
+    margin-right: auto;
+    margin-left: auto;
+}
+.containe {
+    display: flex;
+    justify-content: center;
+}
+.dv{
+    margin-left: 35px;
+}
+

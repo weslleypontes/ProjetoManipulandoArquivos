@@ -1,0 +1,87 @@
+﻿@model IEnumerable<LeituraArquivos.Models.NFe>
+@{
+    ViewData["Title"] = "Listar NFe";
+}
+
+<h2 class="text-white">@ViewData["Title"]</h2>
+
+@if (TempData["Erro"] != null)
+{
+    <center>
+        <div class="alert alert-danger alert-dismissible fade show d-flex align-items-center" role="alert">
+            <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Danger:"><use xlink:href="#exclamation-triangle-fill" /></svg>
+            <div>
+                <strong>@TempData["Erro"]</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        </div>
+    </center>
+}
+@if (TempData["Sucesso"] != null)
+{
+    <center>
+        <div class="alert alert-success alert-dismissible fade show d-flex align-items-center" role="alert">
+            <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Success:"><use xlink:href="#check-circle-fill" /></svg>
+            <div>
+                <strong>@TempData["Sucesso"]</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        </div>
+    </center>
+}
+
+<table class="table table-secondary table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NatOp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mod)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DhEmi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TpNf)
+            </th>
+            <th>
+                <center>NFe completa</center>
+            </th>
+            <th>
+                <center>Danfe</center>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NatOp)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Mod)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DhEmi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TpNf)
+                </td>
+                <td>
+                    <center><a type="button" class="btn btn-primary" asp-action="Completa" asp-route-id="@item.Id">Visualizar</a></center>
+                </td>
+                <td>
+                    <center><a type="button" class="btn btn-primary" asp-action="DanFe" asp-route-id="@item.Caminho">Danfe</a></center>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table> 

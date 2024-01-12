@@ -1,13 +1,16 @@
 using Microsoft.EntityFrameworkCore;
+using LeituraArquivos.Services;
 using LeituraArquivos.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+//Comectar com banco
 builder.Services.AddDbContext<AppDbContext>(options =>
-                    options.UseSqlServer(builder.Configuration.GetConnectionString("AppDbContext"), builder =>
-                        builder.MigrationsAssembly("LeituraArquivos")));
+                    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"), Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.0.32-mysql")));
+builder.Services.AddScoped<UploadService>();
+builder.Services.AddScoped<DestinatarioService>();
+builder.Services.AddScoped<ProdServService>();
 
 var app = builder.Build();
 
